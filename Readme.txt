@@ -1,6 +1,1 @@
-Thanks for downloading this template!
-
-Template Name: Shield
-Template URL: https://templatemag.com/shield-bootstrap-agency-template/
-Author: TemplateMag.com
-License: https://templatemag.com/license/
+This is website for Security of 3gfss advertisement
